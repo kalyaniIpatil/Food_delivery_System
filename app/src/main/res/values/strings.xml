@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food_delivery_System</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="defualt_web_client_id"> 1:242836541822:android:1e0e5602390f7fc5d8e32f</string>
+</resources>
